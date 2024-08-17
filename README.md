@@ -1,1 +1,1 @@
-# Building-AI-Applications-with-Hugging-Face-
+# Building-AI-Applications-with-Hugging-Face
